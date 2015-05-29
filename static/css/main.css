@@ -1,3 +1,7 @@
 body {
-    background-color: #ddd;
+    background-color: #ccc;
+}
+
+.text-center {
+    color: #ddd;
 }
