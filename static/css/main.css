@@ -1,7 +1,28 @@
-body {
-    background-color: #ccc;
+body, html {
+    background-color: #ddd;
+    color: #333;
+    height: 100%;
+}
+
+#footer-push {
+    height: 3em;
+}
+
+#footer {
+    height: 3em;
 }
 
 .text-center {
-    color: #ddd;
+    color: #666;
+}
+
+#push {
+    height: 100px;
+}
+
+#wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin-bottom: -3em;
 }
