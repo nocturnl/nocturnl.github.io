@@ -13,8 +13,9 @@ div.container-center{
     border-radius: 5px;
     width: 70%;
     min-height: 200px;
-    max-height: 500px;
+    max-height: 1000px;
     padding: 20px;
+    overflow: hidden;
 }
 
 div.container-curved {
